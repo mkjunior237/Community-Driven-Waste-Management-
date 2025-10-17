@@ -1,4 +1,4 @@
-Project Overview
+Project Overview: 
 The Community-Driven Waste Management System is a cloud-based platform that empowers communities to manage waste more effectively by coordinating cleanups, tracking recycling efforts and streamlining waste collection schedules. It engages residents, local organizations, and authorities in a collaborative effort to promote environmental sustainability. The system is designed to
 •	Organize community cleanups for public spaces like parks, streets, or rivers.
 •	Provide real-time tracking of waste collection schedules and recycling points.
